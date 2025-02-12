@@ -2,6 +2,12 @@
 
 This is the Superset Leaflet Plugin by City of Cape Town Data Science Team Superset Chart Plugin.
 
+### Clone the repository
+
+```bash
+git clone https://ds1.capetown.gov.za/ds_gitlab/OPM/cct-superset-plugin-leaflet.git superset-leaflet-plugin
+```
+
 ### Usage
 
 To build the plugin, run the following commands:
